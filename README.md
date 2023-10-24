@@ -1,10 +1,15 @@
 # JPtranscribe
-This script is intended to work with locally deployed whisper via whisper web ui, for installation guide for that please refer to [Whisper WebUI with a VAD for more accurate non-English transcripts (Japanese) · openai/whisper · Discussion #397 · GitHub](https://github.com/openai/whisper/discussions/397)
+This is a simple script intended to work with locally deployed whisper via whisper web ui.
+
+for installation guide for that please refer to [Whisper WebUI with a VAD for more accurate non-English transcripts (Japanese) · openai/whisper · Discussion #397 · GitHub](https://github.com/openai/whisper/discussions/397)
+
+---
 first you need to install gradio_client
 ```
 pip install gradio_client
 ```
 ## set up automation with qBitTorrent
+open setting, download, find and enable "run on torrent finished" and enter the path where the App.bat is located and then type a space bar followed by "%F"
 ![image](https://github.com/DvirFederacia/JPtranscribe/assets/52207204/55813f1a-57f3-4e25-b98d-17df92bdd09d)
 
 ## or run the script manually on a specified folder:
