@@ -1,7 +1,7 @@
 # JPtranscribe
 This is a simple script intended to work with locally deployed whisper via whisper web ui.
 
-for installation guide for that please refer to [Whisper WebUI with a VAD for more accurate non-English transcripts (Japanese) · openai/whisper · Discussion #397 · GitHub](https://github.com/openai/whisper/discussions/397)
+for installation guide of locally deployed whisper client please refer to [Whisper WebUI with a VAD for more accurate non-English transcripts (Japanese) · openai/whisper · Discussion #397 · GitHub](https://github.com/openai/whisper/discussions/397)
 
 ---
 first you need to install gradio_client
