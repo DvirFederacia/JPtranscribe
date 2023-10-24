@@ -9,7 +9,7 @@ first you need to install gradio_client
 pip install gradio_client
 ```
 ## set up automation with qBitTorrent
-open setting, download, find and enable "run on torrent finished" and enter the path where the App.bat is located and then type a space bar followed by "%F"
+open setting, download, find and enable "run on torrent finished" and enter the path where the App.bat is located and then hit space bar followed by "%F"
 ![image](https://github.com/DvirFederacia/JPtranscribe/assets/52207204/c60d9b3d-6806-4837-a024-f93df9ffa2ea)
 
 
